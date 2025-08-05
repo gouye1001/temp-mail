@@ -1,0 +1,83 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+.claude/agents/accessibility-specialist.md
+.claude/agents/ai-engineer.md
+.claude/agents/api-documenter.md
+.claude/agents/arbitrage-bot.md
+.claude/agents/backend-architect.md
+.claude/agents/blockchain-developer.md
+.claude/agents/business-analyst.md
+.claude/agents/cloud-architect.md
+.claude/agents/code-reviewer.md
+.claude/agents/content-marketer.md
+.claude/agents/context-manager.md
+.claude/agents/cpp-engineer.md
+.claude/agents/crypto-analyst.md
+.claude/agents/crypto-risk-manager.md
+.claude/agents/crypto-trader.md
+.claude/agents/customer-support.md
+.claude/agents/data-engineer.md
+.claude/agents/data-scientist.md
+.claude/agents/database-admin.md
+.claude/agents/database-optimizer.md
+.claude/agents/debugger.md
+.claude/agents/defi-strategist.md
+.claude/agents/deployment-engineer.md
+.claude/agents/devops-troubleshooter.md
+.claude/agents/directus-developer.md
+.claude/agents/drupal-developer.md
+.claude/agents/frontend-developer.md
+.claude/agents/game-developer.md
+.claude/agents/golang-pro.md
+.claude/agents/graphql-architect.md
+.claude/agents/hyperledger-fabric-developer.md
+.claude/agents/java-developer.md
+.claude/agents/laravel-vue-developer.md
+.claude/agents/legacy-modernizer.md
+.claude/agents/legal-advisor.md
+.claude/agents/ml-engineer.md
+.claude/agents/mlops-engineer.md
+.claude/agents/mobile-developer.md
+.claude/agents/nextjs-app-router-developer.md
+.claude/agents/payment-integration.md
+.claude/agents/performance-engineer.md
+.claude/agents/php-developer.md
+.claude/agents/prompt-engineer.md
+.claude/agents/python-pro.md
+.claude/agents/quant-analyst.md
+.claude/agents/rails-pro.md
+.claude/agents/ruby-pro.md
+.claude/agents/rust-pro.md
+.claude/agents/sales-automator.md
+.claude/agents/security-auditor.md
+.claude/agents/shadcn-tailwind-v4-auditor.md
+.claude/agents/test-automator.md
+.claude/agents/typescript-expert.md
+.claude/agents/ui-ux-designer.md
+.claude/agents/wordpress-developer.md
+CLAUDE.md
