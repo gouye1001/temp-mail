@@ -36,7 +36,7 @@ export default function HomePage() {
                 </Button>
                 <ThemeToggle />
                 <Button variant="ghost" size="sm" asChild>
-                  <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/gouye1001/temp-mail" target="_blank" rel="noopener noreferrer">
                     <Github className="h-4 w-4" />
                   </a>
                 </Button>
